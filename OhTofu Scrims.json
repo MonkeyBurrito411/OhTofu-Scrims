@@ -1,6 +1,6 @@
 {
 	"Name": "Tofu Scrims",
-	"Version": 1730404037,
+	"Version": 1731570407,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2242,6 +2242,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"150",
 				"174",
 				"184"
 			],
