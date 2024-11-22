@@ -1,6 +1,6 @@
 {
 	"Name": "Tofu Scrims",
-	"Version": 1731570407,
+	"Version": 1732293552,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -26,6 +26,7 @@
 				"43",
 				"268",
 				"46",
+				"47",
 				"49",
 				"55",
 				"252",
@@ -53,6 +54,7 @@
 				"149",
 				"151",
 				"155",
+				"244",
 				"170",
 				"171",
 				"172",
@@ -302,8 +304,7 @@
 				18
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -370,8 +371,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -440,8 +440,7 @@
 			"ItemWhitelist": [
 				5,
 				8,
-				15,
-				0
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -528,8 +527,7 @@
 			"ItemWhitelist": [
 				5,
 				8,
-				15,
-				0
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -610,8 +608,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -679,8 +676,7 @@
 				119
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -749,8 +745,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -819,8 +814,7 @@
 				158
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -887,8 +881,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -953,8 +946,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1026,8 +1018,7 @@
 				216
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1096,8 +1087,7 @@
 				235
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1182,8 +1172,7 @@
 			"ItemWhitelist": [
 				5,
 				8,
-				15,
-				0
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1262,8 +1251,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1334,8 +1322,7 @@
 				279
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1402,8 +1389,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1468,8 +1454,7 @@
 				337
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1534,8 +1519,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1606,8 +1590,7 @@
 				377
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1672,8 +1655,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1747,8 +1729,7 @@
 			"ItemWhitelist": [
 				5,
 				8,
-				15,
-				0
+				15
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1831,8 +1812,7 @@
 				438
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1901,8 +1881,7 @@
 				454
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1970,8 +1949,7 @@
 				477
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2045,8 +2023,7 @@
 				497
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2116,8 +2093,7 @@
 				515
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2189,8 +2165,7 @@
 				536
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2262,8 +2237,7 @@
 				548
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2329,8 +2303,7 @@
 				578
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2399,8 +2372,7 @@
 				594
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2520,8 +2492,7 @@
 				636
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2591,8 +2562,7 @@
 				654
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2665,8 +2635,7 @@
 				668
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2736,8 +2705,7 @@
 				688
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2810,8 +2778,7 @@
 				713
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2881,8 +2848,7 @@
 				736
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2918,6 +2884,54 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Houndmaster",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
